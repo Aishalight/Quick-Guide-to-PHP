@@ -8,18 +8,18 @@ A concise PHP revision guide covering the fundamentals you need for a quick revi
 
 📚 Table of Contents
 
-- "1. Variables & Data Types" (#1-variables--data-types)
+- 1. Variables & Data Types" (#1-variables--data-types)
   - "Variable Scope" (#variable-scope)
-- "2. Logic & Control Flow" (#2-logic--control-flow)
+- 2. Logic & Control Flow" (#2-logic--control-flow)
   - "If / Else / Elseif" (#if--else--elseif)
   - "Switch" (#switch)
   - "Loops" (#loops)
   - "Foreach" (#foreach)
-- "3. Functions & Code Modularity" (#3-functions--code-modularity)
+- 3. Functions & Code Modularity" (#3-functions--code-modularity)
   - "User-Defined Functions" (#user-defined-functions)
   - "Built-in Functions" (#built-in-functions)
   - "Include & Require" (#include--require)
-- "4. Forms & Database Integration" (#4-forms--database-integration)
+- 4. Forms & Database Integration" (#4-forms--database-integration)
   - "GET vs POST" (#get-vs-post)
   - "MySQL Connection" (#mysql-connection)
   - "CRUD Operations" (#crud-operations)
